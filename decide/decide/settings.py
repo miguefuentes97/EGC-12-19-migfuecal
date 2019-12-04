@@ -68,7 +68,7 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'https://egc-migfuecal.herokuapp.com/'
+BASEURL = 'https://egc-migfuecal2.herokuapp.com/'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
